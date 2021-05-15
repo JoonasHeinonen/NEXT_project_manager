@@ -1,15 +1,13 @@
-import React from 'react';
-
-const Home = () => {
+const About = () => {
     return (
         <div>
             <div className='container mx-auto text-center'>
                 <h1 className='text-6xl m-12'>
-                    Hejssan!
+                    About
                 </h1>
             </div>
         </div>
     );
 };
 
-export default Home;
+export default About;
